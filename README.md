@@ -12,6 +12,8 @@ sudo apt-get update -y
 
 && apt-get upgrade
 
+
+
 #required
 
 curl -fsSL https://get.docker.com -o get-docker.sh
