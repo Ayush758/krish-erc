@@ -10,7 +10,7 @@
 
 sudo apt-get update -y
 
-sudo apt-get upgrade
+&& apt-get upgrade
 
 #required
 
